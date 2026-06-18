@@ -1,0 +1,6 @@
+{
+  "name": "Logistics & Shipment Management",
+  "description": "Full-stack Logistics and Shipment Management API System featuring user authentication, warehouse allocation, delivery agent features, real-time shipment tracking, comprehensive reports, and an interactive API Explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
